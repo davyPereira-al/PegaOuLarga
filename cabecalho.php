@@ -18,7 +18,7 @@
     <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Roupas</a>
+          <a class="nav-link active" aria-current="page" href="roupas.php">Roupas</a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="#">Casa e acessórios</a>

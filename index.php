@@ -13,17 +13,19 @@
 <?php
 include "cabecalho.php";  
 ?>
+
+<!-- carrossel de apresentação -->
   <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="Imagens/Logo.png" class="d-block w-100" alt="...">
+      <img src="Imagens/Logo.png" class="d-block w-100" alt="">
     </div>
     <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
+      <img src="Imagens/troca01.png" class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item">
-      <img src="..." class="d-block w-100" alt="...">
-    </div>
+  <!-- Imagens do carrossel -->
+   
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
