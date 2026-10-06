@@ -9,3 +9,7 @@ header {
   max-width: 600px;
   margin: 0 auto;
 }
+
+.dropdown-menu{
+  display:none;
+}

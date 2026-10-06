@@ -36,6 +36,17 @@
           <a class="nav-link active" aria-current="page" href="sobrenos.php">Sobre nós</a>
         </li>
       </ul>
+      
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          <img src="Imagens/icons.png" alt="Ícone de Cadastro">
+        </a>
+
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="login.php">Login</a></li>
+          <li><a class="dropdown-item" href="cadastro.php">Cadastrar-se</a></li>
+        </ul>
+      </li>      
      
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
