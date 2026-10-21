@@ -1,19 +1,8 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículo - Gabriel de Souza Machado</title>
+<?php
+     include "cabecalho.php";
+?>
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-</head>
-<body>
-
-    <?php
-        include "cabecalho.php";
-    ?>
-
-    <h1>GABRIEL DE SOUZA MACHADO</h1>
+<h1>GABRIEL DE SOUZA MACHADO</h1>
     <p>17 anos, solteiro</p>
     <p>Casa grande, Diadema - SP</p>
     <p>E-mail: <a href="mailto:gabrieldesouza72544@gmail.com">gabrieldesouza72544@gmail.com</a></p>
