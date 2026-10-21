@@ -61,5 +61,5 @@ include "cabecalho.php";
         </section>
     </main>
 <?php
-       include "rodape.php";  
+    include "rodape.php";  
 ?>

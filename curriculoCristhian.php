@@ -48,6 +48,6 @@ include "cabecalho.php";
     <h3>Jovem Aprendiz Logística - Omega Light</h3>
     <p>Junho de 2025 / Atual</p>
     <p>Atividades: Organização de estoque, expedição de produtos, atendimento ao cliente e trabalho em equipe.</p>
- <?php
-        include "rodape.php";  
+<?php
+    include "rodape.php";  
 ?>
