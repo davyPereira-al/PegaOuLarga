@@ -2,7 +2,7 @@
     include "cabecalho.php";
 ?>
 <div class="caixa-cad">
-  <form class="row g-3">
+  <form class="row g-3" action="cadastro.php" method="post">
     <div class="md:col-6">
       <label for="inputName4" class="form-label">Nome</label>
       <input type="text" class="form-control" id="inputName4" name="nome">
@@ -21,7 +21,7 @@
     </div>
     <div class="md:col-6">
       <label for="inputCity" class="form-label">Cidade</label>
-      <input type="text" class="form-control" id="inputCity" name="city">
+      <input type="text" class="form-control" id="inputCity" name="cidade">
   </div>
   <div class="md:col-4">
     <label for="inputState" class="form-label">Estado</label>
