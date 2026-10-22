@@ -14,8 +14,8 @@ header {
   display:none;
 }
 
-.row g-3{
-  border: 3px;
-  border-radius: 2px solid #0757cf;
-  padding: 20;
+.caixa-cad{
+  border: 3px solid #0757cf
+  border-radius: 10px ;
+  padding: 20px;
 }
