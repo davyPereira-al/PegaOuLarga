@@ -5,7 +5,7 @@
   <form class="row g-3">
     <div class="md:col-6">
       <label for="inputName4" class="form-label">Nome</label>
-      <input type="name" class="form-control" id="inputName4">
+      <input type="text" class="form-control" id="inputName4">
     </div>
     <div class="md:col-6">
       <label for="inputEmail4" class="form-label">Email</label>
@@ -14,6 +14,10 @@
     <div class="md:col-6">
       <label for="inputPassword4" class="form-label">Senha</label>
       <input type="password" class="form-control" id="inputPassword4">
+    </div>
+    <div class="md:col-6">
+      <label for="inputDate4" class="form-label">Data de Nascimento</label>
+      <input type="date" class="form-control" id="inputDate4">
     </div>
     <div class="md:col-6">
       <label for="inputCity" class="form-label">Cidade</label>
