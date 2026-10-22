@@ -13,3 +13,9 @@ header {
 .dropdown-menu{
   display:none;
 }
+
+.row g-3{
+  border: 3px;
+  border-radius: 2px solid #0757cf;
+  padding: 20;
+}
