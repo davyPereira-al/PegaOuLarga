@@ -12,7 +12,7 @@
                         <p> Projeto etec.</p>
                     </blockquote>
                     <figcaption class="blockquote-footer">
-                        Someone famous in <cite title="Source Title">Source Title</cite>
+                        Um local confiável para realizar sua troca! <cite title="Source Title"></cite>
                     </figcaption>
                 </figure>
             </div>
