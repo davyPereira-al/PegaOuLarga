@@ -1,6 +1,7 @@
 <?php  
     include "cabecalho.php"
 ?>
+<div class="caixa-cad">
 <form>
   <div class="mb-3">
     <label for="exampleInputEmail1" class="form-label">Email</label>
@@ -13,6 +14,7 @@
   </div>
   <button type="submit" class="btn-solid theme-primary">Enviar</button>
 </form>
+</div>
 <?php
     include "rodape.php"
 ?>

@@ -15,7 +15,12 @@ header {
 }
 
 .caixa-cad{
-  border: 3px solid #0757cf;
-  border-radius: 10px ;
-  padding: 20px;
+  /*Molde da caixa*/
+  background-color: #ffffff;
+  width: 90%;
+  max-width: 500px;
+  margin: 50px auto;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
 }
