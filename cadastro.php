@@ -2,6 +2,7 @@
     include "cabecalho.php";
 ?>
 <div class="caixa-cad">
+  
   <form class="row g-3" action="cadastro.php" method="post">
     <div class="md:col-6">
       <label for="inputName4" class="form-label">Nome</label>

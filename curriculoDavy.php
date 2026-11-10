@@ -7,7 +7,7 @@ include "cabecalho.php";
         <p><strong>Idade:</strong> 19 anos</p>
         <p><strong>Cidade:</strong> Diadema - São Paulo</p>
         <p><strong>Celular:</strong> (11) 96626-8684 | <strong>Recado:</strong> (11) 94862-5120</p>
-        <p><strong>E-mail:</strong> <a href="mailto:limadavy518@gmail.com">limadavy518@gmail.com</a></p>
+        <p><strong>E-mail: limadavy518@gmail.com</a></p>
     </header>
     
     <hr>

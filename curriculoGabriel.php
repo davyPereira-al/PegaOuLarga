@@ -5,7 +5,7 @@
 <h1>GABRIEL DE SOUZA MACHADO</h1>
     <p>17 anos, solteiro</p>
     <p>Casa grande, Diadema - SP</p>
-    <p>E-mail: <a href="mailto:gabrieldesouza72544@gmail.com">gabrieldesouza72544@gmail.com</a></p>
+    <p>E-mail: gabrieldesouza72544@gmail.com</a></p>
 
     <hr>
 
