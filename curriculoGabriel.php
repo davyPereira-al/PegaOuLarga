@@ -1,20 +1,24 @@
 <?php
-     include "cabecalho.php";
+    include "cabecalho.php";
 ?>
 
-<h1>GABRIEL DE SOUZA MACHADO</h1>
-    <p>17 anos, solteiro</p>
-    <p>Casa grande, Diadema - SP</p>
-    <p>E-mail: gabrieldesouza72544@gmail.com</a></p>
+    <header>
+    <h1>GABRIEL DE SOUZA MACHADO</h1>
+        <p><strong>Idade:</strong> 17 anos, solteiro</p>
+        <p><strong>Telefon:</strong> (11) 91681-3700</p>
+        <p><strong>Cidade:</strong> Diadema - SP</p>
+        <p><strong>E-mail:</strong> gabrieldesouza72544@gmail.com</a></p>
+    </header>
 
     <hr>
 
-   
+<main>
+
     <h2>OBJETIVO</h2>
     <p>Buscar desenvolver minhas habilidades na área de Desenvolvimentos de Sistemas e adquirir experiência no mercado de trabalho.</p>
-
+    
     <hr>
-
+    
     <h2>QUALIFICAÇÕES</h2>
     <ul>
         <li>Conhecimento básico em HTML e CSS</li>
@@ -23,9 +27,9 @@
         <li>Atendimento ao cliente</li>
         <li>Organização e pontualidade</li>
     </ul>
-
+    
     <hr>
-
+    
     
     <h2>FORMAÇÃO ACADÊMICA</h2>
     <ul>
@@ -38,9 +42,9 @@
             Cursando Técnico em Desenvolvimento de Sistemas (Previsão de término: Julho de 2027)
         </li>
     </ul>
-
+    
     <hr>
-
+    
     
     <h2>EXPERIÊNCIA PROFISSIONAL</h2>
     <ul>
@@ -49,14 +53,15 @@
             Cargo: Empacotador (Freelancer)
         </li>
     </ul>
-
+    
     <hr>
     <h2>OUTRAS INFORMAÇÕES</h2>
     <ul>
         <li>Participação em ação social</li>
     </ul>
     
-     <footer>
+
+</main>
 <?php
     include "rodape.php";  
 ?>
