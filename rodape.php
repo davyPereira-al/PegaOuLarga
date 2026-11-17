@@ -5,14 +5,18 @@
         <div class="card">
             <div class="card-header">
             PegaOuLarga
-            </div>
+        </div>    
             <div class="card-body">
                 <figure>
                     <blockquote class="blockquote">
                         <p> Projeto etec.</p>
+                        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="sobrenos.php">Sobre nós</a>
+                            </li>
+                        </ul> <cite title="Source Title"></cite>
                     </blockquote>
                     <figcaption class="blockquote-footer">
-                        Um local confiável para realizar sua troca! <cite title="Source Title"></cite>
                     </figcaption>
                 </figure>
             </div>

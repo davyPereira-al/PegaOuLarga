@@ -13,32 +13,11 @@
     <header>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="index.php">Pega<span style="color: #0757cff1;">Ou</span>Larga</a>
+    <a class="navbar-brand position-absolute start-50 translate-middle-x" href="index.php">Pega<span style="color: #0757ff;">Ou</span>Larga</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="roupas.php">Roupas</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Casa e acessórios</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Jogos</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Esportes</a>
-        </li>
-         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Materiais e Construção</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="sobrenos.php">Sobre nós</a>
-        </li>
-      </ul>
-      
+    <div class="collapse navbar-collapse" id="navbarTogglerDemo02">      
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           <img src="Imagens/icons.png" alt="Ícone de Cadastro">

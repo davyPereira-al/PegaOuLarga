@@ -2,6 +2,8 @@
 include "cabecalho.php";
 ?>
 
+<div class="curriculo">
+
     <header>
         <h1>Davy Lima Pereira</h1>
         <p><strong>Idade:</strong> 19 anos</p>
@@ -60,6 +62,7 @@ include "cabecalho.php";
             </ul>
         </section>
     </main>
-<?php
+</div>
+    <?php
     include "rodape.php";  
-?>
+    ?>

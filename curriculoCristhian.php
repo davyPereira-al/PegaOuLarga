@@ -1,6 +1,7 @@
 <?php
 include "cabecalho.php";
 ?>
+<div class="curriculo">
 
     <header>
         <h1>Cristhian Lemos Silva</h1>
@@ -9,13 +10,13 @@ include "cabecalho.php";
         <p><strong>Telefone:</strong>(11) 97019-8616</p>
         <p><strong>Email: cristhian.lemos16@gmail.com</p>
     </header>
-
-    <hr>
     
+    <hr>
     <main>
-        <h>OBJETIVO</h2>
+    <h2>OBJETIVO</h2>
+        
         <p>Busco uma oportunidade de estágio na área de T.I em Desenvolvimento de Sistemas para poder desenvolver minhas capacidades técnicas para poder adquirir mais experiências na área profissional.</p>
-
+        
         <h2>RESUMOS DAS QUALIFICAÇÕES</h2>
         <ul>
             <li>Inglês básico</li>
@@ -26,7 +27,7 @@ include "cabecalho.php";
             <li>Aprendizado rápido</li>
             <li>Interesse em aprendizado, em se comprometer ao trabalho e crescer profissionalmente na área</li>
         </ul>
-
+        
         <h2>FORMAÇÃO ACADÊMICA</h2>
         <ul>
             <li>
@@ -46,12 +47,13 @@ include "cabecalho.php";
                 I.E Santa Paulina - DIADEMA SP
             </li>
         </ul>
-
+        
         <h2>EXPERIÊNCIA PROFISSIONAL</h2>
         <h3>Jovem Aprendiz Logística - Omega Light</h3>
         <p>Junho de 2025 / Atual</p>
         <p>Atividades: Organização de estoque, expedição de produtos, atendimento ao cliente e trabalho em equipe.</p>
     </main>
-<?php
+</div>
+    <?php
     include "rodape.php";  
-?>
+    ?>
