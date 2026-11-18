@@ -9,7 +9,6 @@ include "cabecalho.php";
             <a class="btn btn-primary" href="curriculoGabriel.php" role="button">Curriculo do Gabriel</a>
         </hgroup>
 
-        <footer> 
 <?php
 include "rodape.php";  
 ?>
